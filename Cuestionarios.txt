@@ -1,0 +1,18 @@
+/*
+    ¿Explica por qué razón las librerías se definen mediante dos ficheros, uno de extensión .h y otro .c?
+        Los archivos .h mayormente sirven para las librerías y los archivos .c mayormente sirve para poder
+        dividir los proyectos y así evitar el gran famoso código espaguetis.
+    
+    ¿Describe qué tienen en común la visión clásica y la moderna de la programación estructurada?
+        Lo que tiene en común la visión clásica y la moderna de la programación estruturada son las
+        secuencias, selección y las interaciones.
+        Ej: están los bucles como son los for, while o do... while o if y else-if
+
+    ¿Enumera las ventajas de la programación estructurada sobre la programación tradicional?
+        Reducción de los costos de mantenimiento.
+        Programas más sencillos y más rápidos.
+        Aumento en la productividad del programador.
+        Se facilita la utilización de las otras técnicas para el 
+            mejoramiento de la productividad en programación.
+        Los programas quedan mejor documentados internamente.
+*/
